@@ -1,4 +1,4 @@
-# 🐣 duckstep - Beginner to AI Engineer
+# 🐣 duckystep - Beginner to AI Engineer
 
 ยินดีต้อนรับสู่โลกของ `duckstep`!  
 ที่นี่คือพื้นที่บันทึกการเดินทางจากมือใหม่ (Beginner) สู่ AI Engineer ภายใน **6 เดือน**  
@@ -43,7 +43,7 @@
 ## 📁 โครงสร้าง Repo (Repository Structure)
 
 ```bash
-duckydude/
+duckystep/
 ├── week01/
 │   ├── python_basics/
 │   └── exercises/
